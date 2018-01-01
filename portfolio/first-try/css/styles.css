@@ -1,0 +1,93 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 1rem .5rem;
+	font-size: 1.3rem;
+	line-height: 1.2;
+	max-width: 60rem;
+	margin: 0 auto;
+	color: #333;
+}
+
+img {
+	max-width: 200%;
+	
+}
+
+.Header {
+	text-align: right;
+	border-bottom: 8px double #F0F8FF;
+	margin-bottom: 2rem;
+	padding-bottom: 1rem;
+}
+
+.Strap {
+	font-size: 2.2rem;
+
+}
+
+
+.MoneyShot {
+	position: relative;
+}
+
+
+
+.LogoWrapper {
+	display: block;
+	border-bottom: 8px ;
+	margin-bottom: 2rem;
+	padding-bottom: 1rem;
+	text-align: center;
+}
+
+.IntroText {
+	font-size: 2rem;
+	font-style:Microsoft JhengHei Light;
+}
+
+
+@media screen and (min-width: 50rem) {
+	body {
+		border-left: 4px solid #f9f9f9;
+		border-right: 4px solid #f9f9f9;
+		padding: 1rem 2rem;
+	}
+
+	.IntroWrapper {
+		display: table;
+		table-layout: fixed;
+		width: 100%;
+		
+	}
+
+	.MoneyShot,
+	.IntroText {
+		display: table-cell;
+		width: 50%;
+		vertical-align: middle;
+		text-align: center;
+	}
+
+	.IntroText {
+		padding: .5rem;
+		font-size: 1.6rem;
+		text-align: left;
+		position: relative;
+		padding: 1rem;
+		margin: 0 0 .5rem 1rem;
+		border-radius: 3px;
+		background-color: #F0F8FF;
+		border: 2px solid #4169E1;
+	}
+
+	.Ingredients {
+		text-align: center;
+		border-bottom: 8px ;
+	    margin-bottom: 2rem;
+	    padding-bottom: 1rem;
+	}
+
+}
