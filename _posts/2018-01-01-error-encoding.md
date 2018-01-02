@@ -8,7 +8,7 @@ comments: true
 rwd-note: true
 ---
 ### 错误如下：
-![tu](/assets/img/6666.png)
+![tu](/assets/img/error.png)
 ```
  Error:  incompatible character encodings: GBK and UTF-8
 ```
@@ -22,4 +22,4 @@ rwd-note: true
 C:\Users\博熙\Desktop\Moon-gh-pages
 ```
 “博熙”是中文，因此只需要把本地博客移至C盘即可，便摆脱了这个问题
-![tu](/assets/img/777.png)
+![tu](/assets/img/success.png)

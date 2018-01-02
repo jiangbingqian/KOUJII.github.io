@@ -8,11 +8,11 @@ comments: true
 portfolio-project: true
 ---
 # First try
-![jietu](/assets/img/555.png)
+![jietu](/assets/img/first-try.png)
 [请点击我](/portfolio/first-try/index.html){: .btn}
 
 ---
 
 # Sencond try
-![jietu](/assets/img/445.png)
+![jietu](/assets/img/second-try.png)
 [请点击我](/portfolio/second-try/index.html){: .btn}
