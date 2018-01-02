@@ -3,8 +3,10 @@ layout: post
 title: "网址集中营"
 date: 2017-12-31 16:32:20 +0300
 excerpt: "分享本学期学习过程中常用的链接"
-tags: [infovis,portfolio]
+tags: [infovis-note,rwd-note]
 comments: true
+infovis-note: true
+rwd-note: true
 ---
 ### 小小心得：学会阅读官方文件
 >互联网上混杂着各类质量不一的教程，大多数教程都是其根据自身情况进行撰写。既然如此，何不自行看官方文件。

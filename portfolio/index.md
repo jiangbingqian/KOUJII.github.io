@@ -1,7 +1,6 @@
 ---
-layout: page
-title: 可视化作品集
-tags: [about]
-date: 2018-01-01
+layout: portfolio-project
+title: Web作品集
+date: 2018-01-02
 comments: false
 ---

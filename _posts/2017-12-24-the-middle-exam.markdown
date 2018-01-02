@@ -3,9 +3,9 @@ layout: post
 title:  "广东财政支出对人民生活的影响和改变"
 date: 2017-12-24 17:49:20 +0300
 excerpt: "信息可视化小组期中专案" 
-tags: [projects]
+tags: [infovis-project]
 comments: true
-project: true
+infovis-project: true
 ---
 
 
