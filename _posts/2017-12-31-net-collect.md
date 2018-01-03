@@ -27,6 +27,6 @@ rwd-note: true
 - [清理HTML文件或段落的小工具]('html-cleaner.com')
 - [codepen]('https://codepen.io/')
 - [css 图标]('http://www.yeahzan.com/fa/facss.html')
-
+- [色盘](https://color.adobe.com)
 
 

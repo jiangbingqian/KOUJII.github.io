@@ -17,6 +17,9 @@ infovis-note: true
 	- [地图 MAPS](#MAPS)
 
 - [您适合哪个图表?](#B)
+- [tableau]("https://www.tableau.com/zh-cn/learn/whitepapers")
+- [Plotly](('https://help.plot.ly/group-by/'))
+- [总结](#c)
 
 
 * * *
@@ -114,6 +117,11 @@ infovis-note: true
 散布图(Scatter diagram) | 是大概了解趋势、集中度、极端数值的有效方式，了解不同信息的关联方式， 
 |=====
 {: rules="groups"}
+
+---
+<h2 id="c">总结</h2>
+时常看网上视频，展示的图表，觉得十分酷炫；实际上图表禁忌的是过度装饰，所有可视化的手段都是为了更好的讲一个故事，至于炫不炫都是肤浅的。
+每个图表都有其作用，与之匹配的是我们所要突出传达的信息。因此，清理数据，运用可视化工具`tableau`与`plotly`做出图表将数据可视化，与他人传达你所发现的故事。我想这就是这学期我们所做的事。
 
 
 
