@@ -28,7 +28,7 @@ rwd-note: true
 
 ---
 
-<h2 id="Interface Design">界面设计</h2>
+<h2 id="Interface-Design">界面设计</h2>
 - **导航和路径搜索**：四大核心
 	我现在在哪？ → 定向（Orientation）
 	我是否能识别我已经到达了正确的地方？ → 结局（Closure）
