@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "界面设计|图形设计|页面结构|网站结构"
+title: "页面结构|网站结构|界面设计|图形设计"
 date: 2018-01-03 01:32:20 +0300
 excerpt: "小小总结"
 tags: [rwd-note]
@@ -12,7 +12,7 @@ rwd-note: true
 ![page-structure](/assets/img/page-structure.png)
 
 ---
-<h2 id="site-Structure">页面结构</h2>网站结构
+<h2 id="site-Structure">网站结构</h2>
 ![site-structure](/assets/img/site-structure.jpg)
 - 当搭建网站的html和目录时，尽可能直观的反映主要的界面和内容分区。
 - html页面分区命名要具有语义
