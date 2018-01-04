@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "闲暇时光的聊天场所"
-date: 2017-12-24 17:49:20 +0300
+date: 2017-01-04 17:49:20 +0300
 excerpt: "信息可视化期末专案" 
 tags: [infovis-project]
 comments: true
