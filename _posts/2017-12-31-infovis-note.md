@@ -2,7 +2,7 @@
 layout: post
 title: "信息可视化笔记"
 date: 2017-12-31 13:32:20 +0300
-excerpt: "学习笔记"
+excerpt: "信息可视化学习总结"
 tags: [infovis-note]
 comments: true
 infovis-note: true
