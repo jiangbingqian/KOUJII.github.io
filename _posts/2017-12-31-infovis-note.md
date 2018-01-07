@@ -17,8 +17,8 @@ infovis-note: true
 	- [地图 MAPS](#MAPS)
 
 - [您适合哪个图表?](#B)
-- [tableau]("https://www.tableau.com/zh-cn/learn/whitepapers")
-- [Plotly](('https://help.plot.ly/group-by/'))
+- [tableau](https://www.tableau.com/zh-cn/learn/whitepapers)
+- [Plotly](https://help.plot.ly/group-by/)
 - [总结](#c)
 
 
