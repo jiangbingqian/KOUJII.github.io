@@ -1,13 +1,14 @@
 @media print {
   body {
-    background-image: none !important;
-    background-color: $white;
+	margin: 0;
+	padding: 0;
   }
   .wrapper {
-    box-shadow: none;
-    width: 100%;
+	background: initial;
+	width: 100%;
     max-width: 100%;
     margin: 0 auto;
+	border:none;
   }
   .container {
     box-shadow: none;
