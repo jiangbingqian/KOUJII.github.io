@@ -2,7 +2,7 @@
 layout: post
 title:  "闲暇时光的聊天场所"
 date: 2017-12-24 17:49:20 +0300
-excerpt: "信息可视化期末专案" 
+excerpt: "期末专案|通过搜索`奶茶店` `咖啡厅` `清吧` `茶馆` `甜品店`六个关键词，利用地图和条形图得知三大地带与人均消费的关系以及人均消费与关键词之间的关系" 
 tags: [infovis-project]
 comments: true
 infovis-project: true

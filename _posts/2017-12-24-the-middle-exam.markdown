@@ -2,10 +2,11 @@
 layout: post
 title:  "广东财政支出对人民生活的影响和改变"
 date: 2017-12-24 17:49:20 +0300
-excerpt: "信息可视化小组期中专案" 
-tags: [infovis-project]
+excerpt: "广东近十年，省财政支出的各项指标与省预算支出，更直观的感受到政府资金的去处。" 
+tags: [infovis-project,portfolio-project]
 comments: true
 infovis-project: true
+portfolio-project: true
 ---
 
 

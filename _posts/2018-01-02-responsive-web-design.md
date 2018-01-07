@@ -2,7 +2,7 @@
 layout: post
 title: "响应式设计"
 date: 2018-01-02 01:32:20 +0300
-excerpt: "媒体查询|弹性布局|弹性图片"
+excerpt: "关于媒体查询|弹性布局|弹性图片的知识总结"
 tags: [rwd-note]
 comments: true
 rwd-note: true
@@ -78,13 +78,13 @@ width | 定义输出设备中的页面可见区域宽度
 
 **使用**`flexbox`
 
-#### 语法：[优秀的教程]("http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html")
+#### 语法：[优秀的教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
 ---
 
 
 <h2 id="image">弹性图片</h2>
-[简书]("https://www.jianshu.com/p/16e2524402b5")在此方面有具体的教程说明
+[简书](https://www.jianshu.com/p/16e2524402b5)在此方面有具体的教程说明
 
 
 
