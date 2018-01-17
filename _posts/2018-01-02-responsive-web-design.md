@@ -78,13 +78,13 @@ width | 定义输出设备中的页面可见区域宽度
 
 **使用**`flexbox`
 
-#### 语法：[优秀的教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+#### 语法：[优秀的教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html) （源自博客）
 
 ---
 
 
 <h2 id="image">弹性图片</h2>
-[简书](https://www.jianshu.com/p/16e2524402b5)在此方面有具体的教程说明
+[简书](https://www.jianshu.com/p/16e2524402b5)在此方面有具体的教程说明 
 
 
 
